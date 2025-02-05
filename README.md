@@ -11,7 +11,6 @@ A fast and seamless Chat App built with **React, Vite & TypeScript**, featuring 
 - 🔄 Fast performance with **Vite**.
 - 🔧 Built with **TypeScript** for better type safety.
 - 🎨 Fully responsive UI.
-- 🔐 Secure authentication (if implemented).
 
 ---
 
