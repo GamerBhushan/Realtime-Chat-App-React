@@ -61,9 +61,9 @@ bun run dev
 
 ## 📸 Output
   
-![S1](https://raw.githubusercontent.com/GamerBhushan/Weather-App-React/refs/heads/Bhushan/images/s1.png)
+![S1](https://raw.githubusercontent.com/GamerBhushan/Realtime-Chat-App-React/refs/heads/Bhushan/images/s1.png)
 
-![S2](https://raw.githubusercontent.com/GamerBhushan/Weather-App-React/refs/heads/Bhushan/images/s2.png)
+![S2](https://raw.githubusercontent.com/GamerBhushan/Realtime-Chat-App-React/refs/heads/Bhushan/images/s2.png)
 
 
 ## 🐟 License
