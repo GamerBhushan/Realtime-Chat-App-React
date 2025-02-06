@@ -5,6 +5,12 @@ A fast and seamless Chat App built with **React, Vite & TypeScript**, featuring 
 
 ---
 
+## TASK 3
+
+![TASK 3](https://raw.githubusercontent.com/GamerBhushan/Realtime-Chat-App-React/refs/heads/Bhushan/images/Task_3.png)
+
+---
+
 ## 🚀 Features
 
 - ⚡ **Real-time messaging** using WebSockets.
